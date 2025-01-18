@@ -4,4 +4,11 @@ library(ratdat)
 
 #Graphics
 ggplot(data = colmplete_old, aes(x = weight, y = hindfoot_length))+
-  geom_point()
+  geom_point(color = "blue")
+
+
+
+
+
+
+
